@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./recommenders/tests/unit/examples/test_notebooks_"
+    ]
+}
